@@ -1,0 +1,34 @@
+{
+  "name": "ssss1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "",
+  "license": "UNLICENSED",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "files": [
+    "src",
+    "lib",
+    "dist"
+  ],
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+    "glob10": "^1.0.0",
+    "glob7": "^1.0.0",
+    "glob9": "^1.0.0"
+  },
+  "fyn": {
+    "dependencies": {
+      "glob10": "./glob10",
+      "glob7": "./glob7",
+      "glob9": "./glob9"
+    }
+  }
+}
